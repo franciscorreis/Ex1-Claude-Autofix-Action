@@ -29,3 +29,4 @@ O primeiro exercício serve para testar o funcionamento da ferramenta com um exe
 O objetivo é verificar o funcionamento da ferramenta: ao fazer um Pull Request, o teste falhará e o agente claude entrará em ação, fazendo um comentário e propondo uma correção do código numa nova branch.
 
 Teste Autofix
+teste 2
